@@ -15,5 +15,5 @@ ___
   - OC
       - Generate your serial number using this [script](https://github.com/corpnewt/GenSMBIOS)
 
-You can use Secure Boot if you enroll the PK, DB, and KEK keys in your BIOS or in KeyTool.efi
+You can use Secure Boot if you enroll the PK, DB, and KEK keys in your BIOS or in KeyTool.efi  
 Use your own keys by following this [guide](https://github.com/perez987/OpenCore-and-UEFI-Secure-Boot) or download the keys already included in this EFI
